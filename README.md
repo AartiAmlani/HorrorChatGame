@@ -1,20 +1,22 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+Its  is a basic chat game .where user is suppose to play with the words and it decides his chances to win or lose.
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+I got the user interface for the web from our other course .
+and i have updated thAt to my own horror story and used it to deploy on heroku .
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+So as you view the game , you will have to basically type any word such as hi hello to start yout game and than u will get a chance to choose the option as in this way game continous and at some point on base of your selection you win or loose the game .
+and than game end as you win or loose .
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
+After that as you type again hii you will start a new game.
 
-Marking
------
+this code of word game is wrritten in node.js and has a beautiful interface of chat app.
 
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
+it is kind of horror story chat game where u win or loose on bases of your selection.
+
+Thanks:) hope u enjoy the game:)
+BEEST OF LUCK!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
 
 
 
